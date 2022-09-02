@@ -1,7 +1,7 @@
 {
     "name": "Avenger",
     "description": "Telegram Group Management Bot Written In Python Using Pyrogram.",
-    "repository": "https://github.com/TeamAvengerBot/AvengerBot",
+    "repository": "https://github.com/FLAMING-AI/AvengerBot",
     "logo": "https://telegra.ph/file/e26d99eeeb83f631bd634.jpg",
     "keywords": [
     "python3",
@@ -11,7 +11,7 @@
     "telegram-bot",
     "pyrogram"
     ],
-    "repository": "https://github.com/TeamAvengerBot/AvengerBot",
+    "repository": "https://github.com/FLAMING-AI/AvengerBot",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
